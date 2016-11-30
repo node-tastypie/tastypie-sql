@@ -1,0 +1,19 @@
+{
+  "name": "tastypie-sql",
+  "version": "1.0.0",
+  "description": "Resource type built around generic SQL databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-tastypie/tastypie-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-tastypie/tastypie-sql/issues"
+  },
+  "homepage": "https://github.com/node-tastypie/tastypie-sql#readme"
+}
